@@ -4,7 +4,4 @@
 <head>
 <title>Page Under Construction</title>
 </head>
-<body>
-
-</body>
 </html>
